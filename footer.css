@@ -1,0 +1,14 @@
+#footer {
+	position: absolute;
+	width: 70%;
+	height: 50px;
+	bottom: 0px;
+	left:50%;
+	margin-left: -35%;
+	background-color: #aaaaaa;
+}
+
+#footer > p {
+	text-align: center;
+	margin: auto;
+}
